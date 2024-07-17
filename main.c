@@ -1,4 +1,3 @@
-
 #include "colorpair.h"
 
 int main() {
@@ -7,5 +6,7 @@ int main() {
 
     testPairToNumber(BLACK, ORANGE, 12);
     testPairToNumber(VIOLET, SLATE, 25);
+
+    PrintColorReferenceManual();
     return 0;
 }
