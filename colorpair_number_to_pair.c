@@ -1,4 +1,5 @@
 // colorpair_number_to_pair.c
+#include <assert.h>
 #include "colorpair.h"
 
 const char* MajorColorNames[] = {
