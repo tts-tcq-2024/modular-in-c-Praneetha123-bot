@@ -1,4 +1,4 @@
-// colorpair_pair_to_number.c
+
 #include <assert.h>
 #include "colorpair.h"
 
