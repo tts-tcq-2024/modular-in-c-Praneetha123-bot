@@ -1,4 +1,4 @@
-// colorpair.h
+
 #ifndef COLORPAIR_H
 #define COLORPAIR_H
 
